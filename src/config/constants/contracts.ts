@@ -5,9 +5,9 @@ export default {
     137: '0xbbe3005089f5979d4d90801d202a5335c93a1d4b', // STAR
   },
   masterChef: {
-    56: '0xa74a72a5d7d8fdc33337187c642dedd3af62a7b8',
+    56: '0x2e780744a4FA4292B52e7d656692E812866A0a87',
     97: '',
-    137: '0xa74a72a5d7d8fdc33337187c642dedd3af62a7b8' 
+    137: '0x2e780744a4FA4292B52e7d656692E812866A0a87' 
   },
   wbnb: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
