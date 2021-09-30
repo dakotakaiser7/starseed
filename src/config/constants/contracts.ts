@@ -1,5 +1,5 @@
 export default {
-  cake: {
+  star: {
     56: '0xbbe3005089f5979d4d90801d202a5335c93a1d4b',
     97: '',
     137: '0xbbe3005089f5979d4d90801d202a5335c93a1d4b', // STAR
